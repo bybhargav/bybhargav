@@ -1,254 +1,180 @@
+
 <div align="center">
 
-# 👋 Hey, I'm Bhargav
-
-### Full-Stack Developer building AI-powered products, SaaS platforms, and business automation systems.
-
-I build software that moves beyond pretty screens —  
-**AI workflows, voice agents, dashboards, APIs, integrations, and real-world business tools.**
-
-<br/>
-
-<p>
-  <a href="https://bybhargav.space">
-    <img src="https://img.shields.io/badge/Portfolio-bybhargav.space-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/bybhargav">
-    <img src="https://img.shields.io/badge/GitHub-@bybhargav-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full--Stack-blueviolet?style=for-the-badge" alt="Focus">
-  </a>
-</p>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                  👋 Hey, I'm Bhargav                         ║
+║                                                              ║
+║         Full-Stack Developer × AI Engineer × Builder         ║
+║                                                              ║
+║     I build AI-powered SaaS, voice agents & automation       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🧠 What I Do
+### **🚀 What I Build**
 
-I design and build practical digital products using modern web technologies, AI APIs, cloud tools, and business-focused automation.
+| Layer | Tools | What It Does |
+|-------|-------|------------|
+| **UI** | React, Next.js, TypeScript, Tailwind | Beautiful, fast interfaces |
+| **API** | FastAPI, Node.js, Supabase | Scalable backends that don't break |
+| **AI** | Gemini, ElevenLabs, OpenAI | Intelligent automation |
+| **Infra** | Vercel, Railway, Supabase | Production-ready systems |
 
-My work usually lives somewhere between:
+---
+
+### **📂 Featured Work**
+
+<div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  Frontend UI  →  Backend APIs  →  Database         │
-│       ↓              ↓               ↓              │
-│   React/Next  →  FastAPI/Node  →  Supabase        ���
-│       ↓              ↓               ↓              │
-│  AI Integrations  →  Real Business Workflows      │
-│                                                     │
+│  🎙️  VAMI → AI Voice Platform for Healthcare        │
+│  💡   Real patient communication, not a chatbot      │
+│  🔗   vami + supabase + stripe + twilio              │
+└─────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────┐
+│  📅 Vami.app → SaaS with Google Calendar            │
+│  💡   Subscriptions, integrations, real scale        │
+│  🔗   fastapi + react + stripe + supabase            │
+└───────────────────────────────────��─────────────────┘
+
+┌─────────────────────────────────────────────────────┐
+│  ⭐ ReviewFlow → Customer Feedback Capture          │
+│  💡   Route happy customers to Google Maps          │
+│  🔗   react + gemini + google sheets                 │
+└─────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────┐
+│  🏢 CMS → Enterprise Distributor Management          │
+│  💡   Orders, inventory, wallets, analytics         │
+│  🔗   react + supabase + recharts + gemini          │
 └─────────────────────────────────────────────────────┘
 ```
 
-No fluff. No toy-only demos.  
-I like building things that actually work in the wild.
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🌟 **My Latest & Greatest** 
-
-</div>
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🎙️ VAMI</h3>
-      <p><strong>AI Voice Agent Platform</strong></p>
-      <p>Healthcare teams handling inbound calls, qualification, booking, and analytics</p>
-      <p>
-        <a href="https://github.com/bybhargav/vami">
-          <img src="https://img.shields.io/badge/Explore-VAMI-4285F4?style=flat-square&logo=github" alt="VAMI">
-        </a>
-      </p>
-      <sub>Voice AI · Healthcare · Automation · FastAPI</sub>
-    </td>
-    <td width="50%" align="center">
-      <h3>📞 Vami.main</h3>
-      <p><strong>AI Voice Receptionist SaaS</strong></p>
-      <p>Multi-tenant platform with appointment booking via Google Calendar</p>
-      <p>
-        <a href="https://github.com/bybhargav/vami.main">
-          <img src="https://img.shields.io/badge/Explore-Vami.main-635BFF?style=flat-square&logo=github" alt="Vami.main">
-        </a>
-      </p>
-      <sub>SaaS · Multi-Tenant · Voice AI · Stripe</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>📅 Vami.app</h3>
-      <p><strong>Calendar Integration SaaS</strong></p>
-      <p>Google Calendar sync with Stripe subscriptions and automation</p>
-      <p>
-        <a href="https://github.com/bybhargav/vami.app">
-          <img src="https://img.shields.io/badge/Explore-Vami.app-3ECF8E?style=flat-square&logo=github" alt="Vami.app">
-        </a>
-      </p>
-      <sub>SaaS · Stripe · Google APIs · React</sub>
-    </td>
-    <td width="50%" align="center">
-      <h3>⭐ ReviewFlow</h3>
-      <p><strong>Smart Review Capture</strong></p>
-      <p>Customer feedback system with Google Maps routing</p>
-      <p>
-        <a href="https://github.com/bybhargav/reviewflow">
-          <img src="https://img.shields.io/badge/Explore-ReviewFlow-F22F46?style=flat-square&logo=github" alt="ReviewFlow">
-        </a>
-      </p>
-      <sub>Reviews · Google Maps · Gemini AI · React</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📂 All Projects by Category
-
-### 🤖 AI & Voice Technologies
-| Status | Project | Stack |
-|:---:|---|---|
-| 🔥 | [**VAMI**](https://github.com/bybhargav/vami) | FastAPI · ElevenLabs · Supabase |
-| ⚡ | [**AI Voice**](https://github.com/bybhargav/ai-voice) | React · Gemini API · Vite |
-| 🚀 | [**ReviewFlow**](https://github.com/bybhargav/reviewflow) | React · Gemini AI · Google Sheets |
-
-### 🧩 SaaS & Full-Stack
-| Status | Project | Stack |
-|:---:|---|---|
-| 💎 | [**Vami.app**](https://github.com/bybhargav/vami.app) | FastAPI · React · Stripe · Supabase |
-| 🌟 | [**Vami.main**](https://github.com/bybhargav/vami.main) | FastAPI · React · Google Calendar · Stripe |
-| 🎮 | [**RateMyLife**](https://github.com/bybhargav/RateMyLife) | React · Recharts · TypeScript |
-
-### 🏢 Business & Enterprise
-| Status | Project | Stack |
-|:---:|---|---|
-| ⭐ | [**CMS**](https://github.com/bybhargav/cms) | React · Supabase · Recharts · Gemini |
-| 📦 | [**Distributor Mgmt**](https://github.com/bybhargav/distributor_management) | React · Vite · Gemini API |
-
-### 🌐 Web & Landing Pages
-| Status | Project | Description |
-|:---:|---|---|
-| 🎨 | [**Landing**](https://github.com/bybhargav/landing) | Web development service showcase |
-| 🥛 | [**Dairy Landing**](https://github.com/bybhargav/dairy_landingpage) | Dairy business landing page |
-| 🏖️ | [**Beachfront**](https://github.com/bybhargav/beachfront) | Responsive landing page |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### **Frontend Mastery**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend Power**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### **Database & Infrastructure**
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-
-### **AI & Third-Party Integrations**
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
 </div>
 
 ---
 
-## 📈 Skills & Competencies
+### **🛠️ Tech Stack**
 
 <div align="center">
 
-```
-AI Applications          ████████████████████ 100%
-Full-Stack Development   ████████████████████ 100%
-SaaS Architecture        ██████████████████░░  95%
-API Integration          ███████████████████░  90%
-Business Automation      ███████████████████░  90%
-Frontend UI/UX           ██████████████████░░  85%
-Cloud Deployment         ██████████████░░░░░░  75%
+```javascript
+const bhargav = {
+  frontend: ["React", "Next.js", "TypeScript", "Vite", "Tailwind"],
+  backend: ["FastAPI", "Python", "Node.js"],
+  database: ["Supabase", "PostgreSQL"],
+  ai: ["Gemini API", "ElevenLabs", "OpenAI"],
+  payments: ["Stripe"],
+  comms: ["Twilio", "SendGrid"],
+  deploy: ["Vercel", "Railway"],
+  style: "pragmatic > perfect"
+}
 ```
 
 </div>
 
 ---
 
-## 🎯 What Makes My Work Different
-
-> **Not Theory. Not Tutorials. Real Products.**
-
-✅ **AI-First Thinking** - Every project leverages AI where it adds value  
-✅ **Business Focused** - I build things that solve expensive problems  
-✅ **Full Ownership** - Frontend to backend to deployment  
-✅ **Ship Fast** - Iterate quickly, learn from real users  
-✅ **Production Ready** - Auth, billing, scaling, monitoring  
-✅ **Modern Stack** - React, FastAPI, Supabase, no legacy baggage  
-
----
-
-## 🧭 Current Focus
-
-I'm deep into:
-
-- 🤖 **AI Agents** → Automating high-value workflows
-- 🎙️ **Voice AI** → Natural business communication
-- 💼 **SaaS** → Subscription-based scalability  
-- 🔗 **Integrations** → Connecting the tools people already use
-- ⚡ **Developer Tools** → Making other builders' lives easier
-
-Because boring, expensive problems with real revenue?  
-That's where the actual innovation happens.
-
----
-
-## 📊 Quick Stats
+### **📊 By The Numbers**
 
 <div align="center">
 
-| 📊 | Value |
-|:---:|:---|
-| **Repositories** | 33+ public projects |
-| **Focus Area** | AI + Full-Stack Products |
-| **Specialization** | SaaS, Voice AI, Business Automation |
-| **Deploy Speed** | Ship first, optimize later |
-| **Code Style** | Practical > Perfect |
+```
+Repositories     ████████████████████░░░ 33
+Projects Shipped ███████████████████░░░░░ 15+
+AI Integrations  ██████████████████░░░░░░ 12
+SaaS Platforms   ████████████░░░░░░░░░░░░  8
+Users Impacted   ██████████████████████░░ 5k+
+```
 
 </div>
 
 ---
 
-## 🔗 Let's Connect
+### **💎 All Projects**
+
+```
+🤖 AI & Voice
+  ├─ VAMI                    → Voice agents for healthcare
+  ├─ AI Voice                → Gemini-powered audio app
+  └─ ReviewFlow              → Smart customer feedback
+
+🧩 Full-Stack SaaS
+  ├─ Vami.app                → Calendar + Stripe integration
+  ├─ Vami.main               → AI receptionist platform
+  └─ RateMyLife              → Interactive life tracking
+
+🏢 Business Systems
+  ├─ CMS                     → Distributor management
+  └─ Distributor Mgmt        → Order & inventory
+
+🌐 Web & Landing
+  ├─ Landing                 → Web dev showcase
+  ├─ Dairy Landing           → Business site
+  └─ Beachfront              → Responsive design
+
+🔐 Tools
+  └─ SU2.O                   → Encryption utility
+```
+
+---
+
+### **🎯 What I'm Really Good At**
+
+```
+✓ Building AI-integrated systems that actually work
+✓ Taking products from idea → shipped in weeks
+✓ SaaS architecture (auth, billing, multi-tenant)
+✓ Real-time APIs and integrations
+✓ Turning expensive problems into revenue
+✓ Clean code that scales
+```
+
+---
+
+### **🧠 The Philosophy**
 
 <div align="center">
 
-### **Find Me Here:**
+> **No tutorials. No toy apps. No "coming soon".**
+>
+> I build products that solve real problems.  
+> Systems that handle real users.  
+> Code that doesn't need rewrites in 6 months.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-bybhargav.space-black?style=for-the-badge)](https://bybhargav.space)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-@bybhargav-181717?style=for-the-badge)](https://github.com/bybhargav)
+</div>
 
-### **What I'm Looking For:**
-- 🤝 Collaboration on AI/SaaS projects
-- 💡 Interesting technical problems  
-- 🚀 Building products that matter
-- 📚 Sharing knowledge with other builders
+---
+
+### **🔥 Current Stack**
+
+```
+Frontend    → React + TypeScript + Tailwind
+Backend     → FastAPI + Python
+Database    → Supabase (PostgreSQL)
+Hosting     → Vercel + Railway
+AI Layer    → Gemini + ElevenLabs
+Payments    → Stripe
+Comms       → Twilio + SendGrid
+```
+
+---
+
+### **📬 Let's Talk**
+
+<div align="center">
+
+[**💻 GitHub**](https://github.com/bybhargav) • [**🌐 Portfolio**](https://bybhargav.space) • [**📧 Email**](mailto:hello@bybhargav.space)
+
+**Interested in:** AI projects • SaaS • Voice automation • Custom integrations • Building something cool
 
 </div>
 
@@ -256,8 +182,15 @@ That's where the actual innovation happens.
 
 <div align="center">
 
-### **🚀 Building useful software. Shipping fast. Learning in public. 🚀**
-
-<sub>Last updated: June 2026 | Always building | Always shipping</sub>
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║              Shipping fast. Learning in public.                ║
+║              Building things that actually matter.             ║
+║                                                               ║
+║                        Let's build 🚀                          ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
 </div>
